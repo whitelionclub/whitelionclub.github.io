@@ -22,16 +22,16 @@
     "app_backPressAdType": "Interstitial",
     "app_howShowAd": "0",
     "app_ad_analysis": "0",
-    "app_adPlatformSequence": "Admob",
+    "app_adPlatformSequence": "Applovin",
     "app_alernateAdShow": "",
     "app_howShowAdInterstitial": "0",
-    "app_adPlatformSequenceInterstitial": "Admob",
+    "app_adPlatformSequenceInterstitial": "Applovin",
     "app_alernateAdShowInterstitial": "",
     "app_howShowAdNative": "0",
-    "app_adPlatformSequenceNative": "Admob",
+    "app_adPlatformSequenceNative": "Applovin",
     "app_alernateAdShowNative": "",
     "app_howShowAdBanner": "0",
-    "app_adPlatformSequenceBanner": "Admob",
+    "app_adPlatformSequenceBanner": "Applovin",
     "app_alernateAdShowBanner": "",
     "app_mainClickCntSwAd": "0",
     "app_innerClickCntSwAd": "0",
@@ -83,7 +83,7 @@
   },
   "PLACEMENT": {
     "Admob": {
-      "ad_showAdStatus": "1",
+      "ad_showAdStatus": "0",
       "ad_loadAdIdsType": "0",
       "AppID": "ca-app-pub-3940256099942544~3347511713",
       "Banner1": "/26001828,22817353411/we24seven/com_drivinglicense_dhaniloan_fastcashguide/z1_dfp_in_app_dhani_loan_fast_b_Z1_pre_1",
@@ -94,7 +94,7 @@
       "AppOpen1": "/26001828,22817353411/we24seven/com_drivinglicense_dhaniloan_fastcashguide/z1_dfp_in_app_dhani_loan_fast_ap_Z1_pre_1"
     },
     "Facebookaudiencenetwork": {
-      "ad_showAdStatus": "1",
+      "ad_showAdStatus": "0",
       "ad_loadAdIdsType": "0",
       "Banner1": "579717567229835_579718487229743",
       "Interstitial1": "579717567229835_579718523896406",
