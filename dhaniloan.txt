@@ -15,10 +15,10 @@
     "app_redirectOtherAppStatus": "0",
     "app_newPackageName": "",
     "app_dialogBeforeAdShow": "0",
-    "app_adShowStatus": "1",
-    "app_AppOpenAdStatus": "1",
+    "app_adShowStatus": "0",
+    "app_AppOpenAdStatus": "0",
     "app_splashAdType": "Interstitial",
-    "app_backPressAdStatus": "1",
+    "app_backPressAdStatus": "0",
     "app_backPressAdType": "Interstitial",
     "app_howShowAd": "1",
     "app_ad_analysis": "0",
@@ -45,7 +45,7 @@
     "appAdsButtonColor": "#000000",
     "appAdsButtonTextColor": "#FFFFFF",
     "topOnAppKey": "Enter Value",
-    "appBackgroundAppOpenAdStatus": "1",
+    "appBackgroundAppOpenAdStatus": "0",
     "BackAdPlatform": "null",
     "PrivacyPolicyScreen": "1",
     "ExitDialog": "1",
@@ -70,21 +70,21 @@
     "IPCountries": "null",
     "CheckOtherIP": "0",
     "NativeBGColor": "#FFFFFF",
-    "SmallNative": "1",
-    "MultiNative": "1",
+    "SmallNative": "0",
+    "MultiNative": "0",
     "InstallUserBot": "0",
     "InstallUserTarget": "0",
     "UserCountry": "null",
     "UserState": "null",
     "UserCity": "null",
-    "Screen1": "1",
-    "Screen2": "1",
-    "Screen3": "1",
-    "DirectCAImpression": "1"
+    "Screen1": "0",
+    "Screen2": "0",
+    "Screen3": "0",
+    "DirectCAImpression": "0"
   },
   "PLACEMENT": {
     "Admob": {
-      "ad_showAdStatus": "1",
+      "ad_showAdStatus": "0",
       "ad_loadAdIdsType": "0",
       "AppID": "ca-app-pub-3940256099942544~3347511713",
       "Banner1": "/21753324030,22876756412/com.drivinglicense.dhaniloan.fastcashguide_Banner",
@@ -104,31 +104,18 @@
       "NativeBanner1": "579717567229835_579718603896398"
     },
     "MyCustomAds": {
-      "ad_showAdStatus": "1",
+      "ad_showAdStatus": "0",
       "ad_loadAdIdsType": "0"
     },
     "Applovin": {
-      "ad_showAdStatus": "1",
+      "ad_showAdStatus": "0",
       "ad_loadAdIdsType": "0",
       "Banner1": "c8b22fd8819f3a46",
       "Interstitial1": "23e1d0ed5987b7e0",
       "Native1": "ebe0bab923720e8a"
     }
   },
-  "Advertise_List": [
-    {
-      "ad_id": "5",
-      "app_name": "Play & Win Coins Daily.",
-      "app_packageName": "http://1104.go.mglgamez.com/",
-      "app_logo": "https://applixapp.tech/AppsManager/upload/app/AppLogo6c608ef0d32096c4805fdf679558f2b7.png",
-      "app_banner": "https://applixapp.tech/AppsManager/upload/app/AppBanner4add5d9e11389ac62b8c178b7bae6432.png",
-      "app_shortDecription": " Play Car Racing Game & Earn Upto 50,000 Coins",
-      "app_buttonName": "Earn Coin Now",
-      "app_rating": "4.3",
-      "app_download": "100000+",
-      "app_AdFormat": "Banner,NativeBanner,Native,Interstitial,AppOpen"
-    }
-  ],
+  "Advertise_List": [],
   "MORE_APP_SPLASH": [],
   "MORE_APP_EXIT": [],
   "EXTRA_DATA": null
