@@ -79,7 +79,8 @@
     "UserCity": "null",
     "Screen1": "1",
     "Screen2": "1",
-    "Screen3": "1"
+    "Screen3": "1",
+    "DirectCAImpression": "1"
   },
   "PLACEMENT": {
     "Admob": {
