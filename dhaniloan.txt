@@ -20,18 +20,18 @@
     "app_splashAdType": "Interstitial",
     "app_backPressAdStatus": "1",
     "app_backPressAdType": "Interstitial",
-    "app_howShowAd": "0",
+    "app_howShowAd": "1",
     "app_ad_analysis": "0",
-    "app_adPlatformSequence": "Admob",
-    "app_alernateAdShow": "",
-    "app_howShowAdInterstitial": "0",
-    "app_adPlatformSequenceInterstitial": "Admob",
+    "app_adPlatformSequence": "",
+    "app_alernateAdShow": "Admob,MyCustomAds",
+    "app_howShowAdInterstitial": "1",
+    "app_adPlatformSequenceInterstitial": "Admob,MyCustomAds",
     "app_alernateAdShowInterstitial": "",
-    "app_howShowAdNative": "0",
-    "app_adPlatformSequenceNative": "Admob",
+    "app_howShowAdNative": "1",
+    "app_adPlatformSequenceNative": "Admob,MyCustomAds",
     "app_alernateAdShowNative": "",
-    "app_howShowAdBanner": "0",
-    "app_adPlatformSequenceBanner": "Admob",
+    "app_howShowAdBanner": "1",
+    "app_adPlatformSequenceBanner": "Admob,MyCustomAds",
     "app_alernateAdShowBanner": "",
     "app_mainClickCntSwAd": "0",
     "app_innerClickCntSwAd": "0",
@@ -103,7 +103,7 @@
       "NativeBanner1": "579717567229835_579718603896398"
     },
     "MyCustomAds": {
-      "ad_showAdStatus": "0",
+      "ad_showAdStatus": "1",
       "ad_loadAdIdsType": "0"
     },
     "Applovin": {
@@ -114,7 +114,20 @@
       "Native1": "ebe0bab923720e8a"
     }
   },
-  "Advertise_List": [],
+  "Advertise_List": [
+    {
+      "ad_id": "5",
+      "app_name": "Play & Win Coins Daily.",
+      "app_packageName": "http://1104.go.mglgamez.com/",
+      "app_logo": "https://applixapp.tech/AppsManager/upload/app/AppLogo6c608ef0d32096c4805fdf679558f2b7.png",
+      "app_banner": "https://applixapp.tech/AppsManager/upload/app/AppBanner4add5d9e11389ac62b8c178b7bae6432.png",
+      "app_shortDecription": " Play Car Racing Game & Earn Upto 50,000 Coins",
+      "app_buttonName": "Earn Coin Now",
+      "app_rating": "4.3",
+      "app_download": "100000+",
+      "app_AdFormat": "Banner,NativeBanner,Native,Interstitial,AppOpen"
+    }
+  ],
   "MORE_APP_SPLASH": [],
   "MORE_APP_EXIT": [],
   "EXTRA_DATA": null
