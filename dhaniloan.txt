@@ -17,7 +17,7 @@
     "app_dialogBeforeAdShow": "1",
     "app_adShowStatus": "1",
     "app_AppOpenAdStatus": "1",
-    "app_splashAdType": "Interstitial",
+    "app_splashAdType": "AppOpen",
     "app_backPressAdStatus": "1",
     "app_backPressAdType": "Interstitial",
     "app_howShowAd": "1",
