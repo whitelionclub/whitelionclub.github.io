@@ -7,7 +7,7 @@
     "app_accountLink": "",
     "app_packageName": "",
     "app_logo": "",
-    "app_status": "NotPublish",
+    "app_status": "Publish",
     "app_privacyPolicyLink": "",
     "app_needInternet": "0",
     "app_updateAppDialogStatus": "0",
@@ -22,16 +22,16 @@
     "app_backPressAdType": "Interstitial",
     "app_howShowAd": "1",
     "app_ad_analysis": "0",
-    "app_adPlatformSequence": "Applovin",
+    "app_adPlatformSequence": "MyCustomAds,Applovin",
     "app_alernateAdShow": "",
     "app_howShowAdInterstitial": "0",
-    "app_adPlatformSequenceInterstitial": "Applovin",
+    "app_adPlatformSequenceInterstitial": "MyCustomAds,Applovin",
     "app_alernateAdShowInterstitial": "",
     "app_howShowAdNative": "0",
-    "app_adPlatformSequenceNative": "Applovin",
+    "app_adPlatformSequenceNative": "MyCustomAds,Applovin",
     "app_alernateAdShowNative": "",
     "app_howShowAdBanner": "0",
-    "app_adPlatformSequenceBanner": "Applovin",
+    "app_adPlatformSequenceBanner": "MyCustomAds,Applovin",
     "app_alernateAdShowBanner": "",
     "app_mainClickCntSwAd": "0",
     "app_innerClickCntSwAd": "0",
@@ -53,8 +53,8 @@
     "ExitScreen": "1",
     "BigNativeBlink": "0",
     "SmallNativeBlink": "0",
-    "Game": "0",
-    "GameURL": "null",
+    "Game": "1",
+    "GameURL": "https://673.game.qureka.com/",
     "Bot": "0",
     "BotURL": "null",
     "TargetArea": "0",
@@ -70,8 +70,8 @@
     "IPCountries": "null",
     "CheckOtherIP": "0",
     "NativeBGColor": "#FFFFFF",
-    "SmallNative": "0",
-    "MultiNative": "0",
+    "SmallNative": "1",
+    "MultiNative": "1",
     "InstallUserBot": "0",
     "InstallUserTarget": "0",
     "UserCountry": "null",
@@ -80,7 +80,7 @@
     "Screen1": "1",
     "Screen2": "1",
     "Screen3": "1",
-    "DirectCAImpression": "0"
+    "DirectCAImpression": "1"
   },
   "PLACEMENT": {
     "Admob": {
@@ -104,7 +104,7 @@
       "NativeBanner1": "579717567229835_579718603896398"
     },
     "MyCustomAds": {
-      "ad_showAdStatus": "0",
+      "ad_showAdStatus": "1",
       "ad_loadAdIdsType": "0"
     },
     "Applovin": {
@@ -115,7 +115,20 @@
       "Native1": "ebe0bab923720e8a"
     }
   },
-  "Advertise_List": [],
+  "Advertise_List": [
+  {
+      "ad_id": "7",
+      "app_name": "Play To Win Coin",
+      "app_packageName": "https://673.game.qureka.com/",
+      "app_logo": "https://blackrevelinfotech.in/AppsManager/upload/app/AppLogo2a5df6fa49b0d2c4fa74824f544e8ba9.png",
+      "app_banner": "https://blackrevelinfotech.in/AppsManager/upload/app/AppBannere12477823e72d368f72f9585604fef47.png",
+      "app_shortDecription": " Win 100 coin instant",
+      "app_buttonName": "Earn Coin",
+      "app_rating": "3.8",
+      "app_download": "100000+",
+      "app_AdFormat": "Banner,NativeBanner,Native,Interstitial,AppOpen"
+    }
+    ],
   "MORE_APP_SPLASH": [],
   "MORE_APP_EXIT": [],
   "EXTRA_DATA": null
